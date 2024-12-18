@@ -50,6 +50,8 @@ The task of the project is to build a parser that accepts a unique user identifi
 
 To start the program, you need to open the __parser.py__, run it and enter your ID in the console, press __Enter__. The data obtained from the site is stored in __result.json__, in the database. The program automatically creates **result.json**. You can open the file through a notepad, it contains a list of movies with the date and time of viewing.
 
+<div align="center">
+
 __parser.py__:
 <div id="header" align="center">
   <img src="Parser/photo_2024-12-18_21-19-34.jpg" width="80" height="80">
