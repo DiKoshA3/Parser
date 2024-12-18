@@ -66,7 +66,7 @@ Entering ID into the console:
 
 The content of __result.json__ is also displayed in the console:
  <div id="header" align="center">
-  <img src="[Parser](Parser/photo_2024-12-18_21-55-12.jpg?raw=true "Optional title")" width="80" height="80">
+  <img src=(Parser/photo_2024-12-18_21-55-12.jpg?raw=true "Optional title") width="80" height="80">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
