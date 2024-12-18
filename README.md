@@ -51,7 +51,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
- align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
+    
 
