@@ -47,7 +47,7 @@ To start the program, you need to open the __parser.py__, run it and enter your 
 __parser.py__:
 <div align="center">
 <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-19-34.jpg" alt="photo1" "Optional title">
+    <img src="/hoto_2024-12-18_21-19-34.jpg" alt="photo1" "Optional title">
   </a>
   
 __result.json__:
