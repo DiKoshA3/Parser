@@ -70,7 +70,7 @@ The content of __result.json__ is also displayed in the console:
   <img src=(Parser/photo_2024-12-18_21-55-12.jpg?raw=true "Optional title") width="80" height="80">
   <div align="center">
   <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" width="80" height="80">
+    <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" "Optional title">
   </a>
 
 
