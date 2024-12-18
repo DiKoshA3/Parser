@@ -46,9 +46,7 @@ The task of the project is to build a parser that accepts a unique user identifi
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To start the program, you need to open the filefile.py, run it and enter your ID in the console, press Enter. The data obtained from the site is stored in ...json, in the database. Open the file ...json, it contains a list of movies with the date and time of viewing.
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+To start the program, you need to open the parser.py, run it and enter your ID in the console, press Enter. The data obtained from the site is stored in result.json, in the database. The program automatically creates result.json. You can open the file through a notepad, it contains a list of movies with the date and time of viewing.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
