@@ -53,21 +53,24 @@ To start the program, you need to open the __parser.py__, run it and enter your 
 <div align="center">
 
 __parser.py__:
-<div id="header" align="center">
-  <img src="[Parser](https://github.com/DiKoshA3/Screenshots.git/photo_2024-12-18_21-19-34.jpg "Optional title")" width="80" height="80">
-
+<div align="center">
+<a href="https://github.com/DiKoshA3/Screenshots.git">
+    <img src="/photo_2024-12-18_21-19-34.jpg" alt="photo1" "Optional title">
+  </a>
+  
 __result.json__:
- <div id="header" align="center">
-  <img src="[Parser](https://github.com/DiKoshA3/Screenshots.git/photo_2024-12-18_21-50-29.jpg "Optional title")" width="80" height="80">
+<div align="center">
+<a href="https://github.com/DiKoshA3/Screenshots.git">
+    <img src="/photo_2024-12-18_21-50-29.jpg" alt="photo1" "Optional title">
+  </a>
 
 Entering ID into the console:
-<div id="header" align="center">
-  <img src="[Parser](https://github.com/DiKoshA3/Screenshots.git/photo_2024-12-18_21-53-35.jpg "Optional title")" width="80" height="80">
+<div align="center">
+<a href="https://github.com/DiKoshA3/Screenshots.git">
+    <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" "Optional title">
+  </a>
 
 The content of __result.json__ is also displayed in the console:
- <div id="header" align="center">
-   ![alt text]([https://github.com/DiKoshA3/Screenshots.git/photo_2024-12-18_21-53-35.jpg]?raw=true)
-  <img src=(Parser/photo_2024-12-18_21-55-12.jpg?raw=true "Optional title") width="80" height="80">
   <div align="center">
   <a href="https://github.com/DiKoshA3/Screenshots.git">
     <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" "Optional title">
