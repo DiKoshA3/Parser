@@ -40,32 +40,32 @@ The task of the project is to build a parser that accepts a unique user identifi
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To start the program, you need to open the __parser.py__, run it and enter your ID in the console, press __Enter__. The data obtained from the site is stored in __result.json__, in the database. The program automatically creates **result.json**. You can open the file through a notepad, it contains a list of movies with the date and time of viewing.
+To start the program, you need to open the __data.py__, run it and enter your ID in the console, press __Enter__. The data obtained from the site is stored in __result.json__, in the database. The program automatically creates **result.json**. You can open the file through a notepad, it contains a list of movies with the date and time of viewing.
 
 <div align="center">
 
-__parser.py__:
+__data.py__:
 <div align="center">
 <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/hoto_2024-12-18_21-19-34.jpg" alt="photo1" "Optional title">
+    <img src="/parser.jpg" alt="photo1" "Optional title">
   </a>
   
 __result.json__:
 <div align="center">
 <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-50-29.jpg" alt="photo1" "Optional title">
+    <img src="/result.jpg" alt="photo1" "Optional title">
   </a>
 
 Entering ID into the console:
 <div align="center">
 <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" "Optional title">
+    <img src="/ID.jpg" alt="photo1" "Optional title">
   </a>
 
 The content of __result.json__ is also displayed in the console:
   <div align="center">
   <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-55-12.jpg" alt="photo1" "Optional title">
+    <img src="/ID result.jpg" alt="photo1" "Optional title">
   </a>
 
 
