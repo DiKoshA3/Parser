@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div id="header" align="center">
@@ -73,7 +75,7 @@ Entering ID into the console:
 The content of __result.json__ is also displayed in the console:
   <div align="center">
   <a href="https://github.com/DiKoshA3/Screenshots.git">
-    <img src="/photo_2024-12-18_21-53-35.jpg" alt="photo1" "Optional title">
+    <img src="/photo_2024-12-18_21-55-12.jpg" alt="photo1" "Optional title">
   </a>
 
 
